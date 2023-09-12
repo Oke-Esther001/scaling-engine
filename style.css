@@ -1,0 +1,11 @@
+h1 {
+    color: rebeccapurple;
+    margin: 5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p {
+    color: brown;
+    margin: 10px;
+    text-shadow: 2px 2px 2px blue;
+}
