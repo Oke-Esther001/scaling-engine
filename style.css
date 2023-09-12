@@ -1,11 +1,11 @@
 h1 {
     color: rebeccapurple;
-    margin: 5px;
+    margin: 15px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 p {
     color: brown;
-    margin: 10px;
+    margin: 20px;
     text-shadow: 2px 2px 2px blue;
 }
